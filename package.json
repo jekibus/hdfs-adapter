@@ -1,0 +1,22 @@
+{
+    "name": "hdfs-adapter",
+    "version": "0.1.1",
+    "description": "HDFS adapter for parse-server",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jekibus/parse-server-hdfs-adapter"
+    },
+    "homepage": "https://github.com/jekibus/parse-server-hdfs-adapter",
+    "bugs": {
+      "url": "https://github.com/jekibus/parse-server-hdfs-adapter/issues"
+    },
+    "keywords": [
+      "parse-server",
+      "hdfs",
+      "file",
+      "adapter"
+    ],
+    "author": "Jeki",
+    "license": "MIT"
+  }
