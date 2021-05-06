@@ -1,5 +1,5 @@
 {
-    "name": "hdfs-adapter",
+    "name": "parse-server-hdfs-adapter",
     "version": "0.1.1",
     "description": "HDFS adapter for parse-server",
     "main": "index.js",
